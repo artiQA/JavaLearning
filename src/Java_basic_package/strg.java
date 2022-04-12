@@ -8,8 +8,9 @@ public class strg {
 
         for(char i :inputStr.toCharArray()){
         if ( inputStr.indexOf(i) == inputStr.lastIndexOf(i)) {
+            System.out.println("First non-repeating");
             System.out.println("First non-repeating character is: "+i);
-            
+
         }
         }
 }
