@@ -16,6 +16,7 @@ class test2{
 		static int count;
 		test2() {
 			al= new ArrayList<Character>();
+            System.out.println("First non-repeating");
 			al.add('a');
 			al.add('e');
 			al.add('i');
