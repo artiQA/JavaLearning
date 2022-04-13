@@ -4,6 +4,8 @@
   <test thread-count="5" parallel="tests" name="Test">
     <classes>
       <class name="Java_basic_package.TestNNGTest"/>
+            <class name="Java_basic_package.TestNNGTest"/>
+
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
